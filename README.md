@@ -1,3 +1,4 @@
+devloper cse210001012@iiti.ac.in     cse210001047@iiti.ac.in
 # Image-Caption-Generator
 IMPORTANT LINKS:
 
